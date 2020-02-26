@@ -15,6 +15,11 @@ or
 curl <script url> | sudo sh
 ```
 
+<br/>
+
+### Caution
+- All most scripts has help(-h) option.
+
 
 
 
